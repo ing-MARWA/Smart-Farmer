@@ -1,4 +1,3 @@
-```markdown
 # Smart Farmer: Disease Classification Models
 
 This repository contains a collection of Convolutional Neural Network (CNN) models trained to classify various plant diseases. Each model is dedicated to a specific plant species and aims to help farmers identify diseases early for timely intervention. 
@@ -60,28 +59,45 @@ This project is open to contributions. If you have any improvements or suggestio
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). 
-```
+This project is licensed under the [MIT License](LICENSE).
+content_copy
+Use code with caution.
+Markdown
 
-**Explanation:**
+Explanation:
 
-* **Clear Title:** The title "Smart Farmer: Disease Classification Models" clearly describes the repository's purpose.
-* **Project Overview:**  A brief description explains what the repository is about (plant disease classification models).
-* **Detailed Project Breakdown:**  A dedicated section lists all the projects with:
-    * **Project Name:**  Clearly states the plant species targeted (e.g., "Strawberry Disease Classification").
-    * **Model:**  Describes the type of model used (e.g., "CNN with multiple convolutional and pooling layers...").
-    * **Dataset:**  Explains the type of data used (e.g., "Images of healthy and diseased strawberries").
-    * **Accuracy:**  Provides a brief indication of the model's performance (e.g., "Achieves high accuracy on the test dataset").
-* **Usage Instructions:**  Explains how to use the code (e.g., "Each project folder contains a Jupyter Notebook...").
-* **Contributions:**  Encourages users to contribute to the project.
-* **Acknowledgments:** Lists the libraries used.
-* **License:**  Specifies the license under which the code is released.
+Clear Title: The title "Smart Farmer: Disease Classification Models" clearly describes the repository's purpose.
 
-**Important Notes:**
+Project Overview: A brief description explains what the repository is about (plant disease classification models).
 
-* **Replace placeholders:** Fill in the specific details for each project (dataset paths, model architectures, etc.).
-* **Add more details:**  Expand on the project descriptions and add more context as needed.
-* **Consider adding images:**  Include some sample images to visualize the projects.
-* **Link to the model files:**  Provide links to the actual model files. 
-* **Format the README:**  Use markdown formatting to make the README more readable (headings, lists, etc.).
-* **Review and refine:**  Read and review your README file to ensure it is clear and easy to understand. 
+Detailed Project Breakdown: A dedicated section lists all the projects with:
+
+Project Name: Clearly states the plant species targeted (e.g., "Strawberry Disease Classification").
+
+Model: Describes the type of model used (e.g., "CNN with multiple convolutional and pooling layers...").
+
+Dataset: Explains the type of data used (e.g., "Images of healthy and diseased strawberries").
+
+Accuracy: Provides a brief indication of the model's performance (e.g., "Achieves high accuracy on the test dataset").
+
+Usage Instructions: Explains how to use the code (e.g., "Each project folder contains a Jupyter Notebook...").
+
+Contributions: Encourages users to contribute to the project.
+
+Acknowledgments: Lists the libraries used.
+
+License: Specifies the license under which the code is released.
+
+Important Notes:
+
+Replace placeholders: Fill in the specific details for each project (dataset paths, model architectures, etc.).
+
+Add more details: Expand on the project descriptions and add more context as needed.
+
+Consider adding images: Include some sample images to visualize the projects.
+
+Link to the model files: Provide links to the actual model files.
+
+Format the README: Use markdown formatting to make the README more readable (headings, lists, etc.).
+
+Review and refine: Read and review your README file to ensure it is clear and easy to understand.
