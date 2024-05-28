@@ -1,5 +1,3 @@
-# Smart Farmer
-
 ```markdown
 # Smart Farmer: Disease Classification Models
 
